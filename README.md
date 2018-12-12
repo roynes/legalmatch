@@ -20,6 +20,7 @@ npm run build
 npm run lint
 ```
 
-### Download htt-servper after isntalling {
+### Download htt-servper after isntalling 
+```
   after installing then run http ./dist/ -p port choice you make.
-}
+```
