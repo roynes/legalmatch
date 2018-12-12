@@ -1,0 +1,71 @@
+@font-face {
+  font-family: gotham-black;
+  src: url('../fonts/gotham-black.otf')
+}
+@font-face {
+  font-family: gotham-black-ita;
+  src: url('../fonts/gotham-black-ita.otf')
+}
+
+@font-face {
+  font-family: gotham-bold;
+  src: url('../fonts/gotham-bold.otf')
+}
+@font-face {
+  font-family: gotham-bold-ita;
+  src: url('../fonts/gotham-bold-ita.otf')
+}
+
+@font-face {
+  font-family: gotham-book;
+  src: url('../fonts/gotham-book.otf')
+}
+@font-face {
+  font-family: gotham-book-ita;
+  src: url('../fonts/gotham-book-ita.otf')
+}
+
+@font-face {
+  font-family: gotham-light;
+  src: url('../fonts/gotham-light.otf')
+}
+@font-face {
+  font-family: gotham-light-ita;
+  src: url('../fonts/gotham-light-ita.otf')
+}
+
+@font-face {
+  font-family: gotham-medium;
+  src: url('../fonts/gotham-medium.otf')
+}
+@font-face {
+  font-family: gotham-medium-ita;
+  src: url('../fonts/gotham-medium-ita.otf')
+}
+
+@font-face {
+  font-family: gotham-thin;
+  src: url('../fonts/gotham-thin.otf')
+}
+@font-face {
+  font-family: gotham-thin-ita;
+  src: url('../fonts/gotham-thin-ita.otf')
+}
+
+@font-face {
+  font-family: gotham-ultra;
+  src: url('../fonts/gotham-ultra.otf')
+}
+@font-face {
+  font-family: gotham-ultra-ita;
+  src: url('../fonts/gotham-ultra-ita.otf')
+}
+
+@font-face {
+  font-family: gotham-xlight;
+  src: url('../fonts/gotham-xlight.otf')
+}
+@font-face {
+  font-family: gotham-xlight-ita;
+  src: url('../fonts/gotham-xlight-ita.otf')
+}
