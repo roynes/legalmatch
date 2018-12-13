@@ -1,26 +1,37 @@
 # legalmatch
 
-## Project setup
+`/dist` folder has been included so just download `http-server` globally
+
+###Download http-server
+```
+npm install http-server -g
+```
+
+After installing `http-server` go to the `root directory` of the `project` via `command/terminal`
+
+###Then type-in
+```
+http-server dist/ -p 8100
+```
+<!-- ## Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compile and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compile and minifies for production
 ```
 npm run build
-```
+``` -->
 
-### Lints and fixes files
+
+
+<!-- ### Lints and fixes files
 ```
 npm run lint
-```
+``` -->
 
-### Download htt-servper after isntalling 
-```
-  after installing then run http ./dist/ -p port choice you make.
-```
