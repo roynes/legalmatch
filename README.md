@@ -2,17 +2,20 @@
 
 `/dist` folder has been included so just download `http-server` globally
 
-###Download http-server
+## Download http-server
 ```
 npm install http-server -g
 ```
 
 After installing `http-server` go to the `root directory` of the `project` via `command/terminal`
 
-###Then type-in
+## Then type-in
 ```
 http-server dist/ -p 8100
 ```
+
+ 
+After running go to `browser` to see the `App`
 <!-- ## Project setup
 ```
 npm install
