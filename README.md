@@ -14,7 +14,7 @@ After installing `http-server` go to the `root directory` of the `project` via `
 http-server dist/ -p 8100
 ```
 
- 
+
 After running go to `browser` to see the `App`
 <!-- ## Project setup
 ```
